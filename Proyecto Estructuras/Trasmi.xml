@@ -1,0 +1,157 @@
+<Troncales>
+	<B>
+		<Estacion n="1">
+			<nombre>Terminal</nombre>
+			<Latitud>4.768767</Latitud>
+			<Longitud>-74.043437</Longitud>
+		</Estacion>
+		<Estacion n="2"> 
+			<nombre>Calle_187</nombre>
+			<Latitud>4.763576</Latitud>
+			<Longitud>-74.044314</Longitud>
+		</Estacion>
+		<Estacion n="3">
+			<nombre>Portal_del_Norte</nombre>
+			<Latitud>4.754266</Latitud>
+			<Longitud>-74.046119</Longitud>
+		</Estacion>
+		<Estacion n="4"> 
+			<nombre>Toberin</nombre>
+			<Latitud>4.746630</Latitud>
+			<Longitud>-74.047226</Longitud>
+		</Estacion>
+		<Estacion n="5"> 
+			<nombre>Cardio_Infantil</nombre>
+			<Latitud>4.742678</Latitud>
+			<Longitud>-74.047872</Longitud>
+		</Estacion>
+		<Estacion n="6"> 
+			<nombre>Mazuren</nombre>
+			<Latitud>4.734525</Latitud>
+			<Longitud>-74.049247</Longitud>
+		</Estacion>
+		<Estacion n="7"> 
+			<nombre>Calle_146</nombre>
+			<Latitud>4.731020</Latitud>
+			<Longitud>-74.049824</Longitud>
+		</Estacion>
+		<Estacion n="8"> 
+			<nombre>Calle_142</nombre>
+			<Latitud>4.728480</Latitud>
+			<Longitud>-74.050238</Longitud>
+		</Estacion>
+		<Estacion n="9"> 
+			<nombre>Alcala</nombre>
+			<Latitud>4.721919</Latitud>
+			<Longitud>-74.051297</Longitud>
+		</Estacion>
+		<Estacion n="10"> 
+			<nombre>Prado</nombre>
+			<Latitud>4.714354</Latitud>
+			<Longitud>-74.052611</Longitud>
+		</Estacion>
+		<Estacion n="11"> 
+			<nombre>Calle_127</nombre>
+			<Latitud>4.704261</Latitud>
+			<Longitud>-74.054348</Longitud>
+		</Estacion>
+		<Estacion n="12"> 
+			<nombre>Pepe_Sierra</nombre>
+			<Latitud>4.698210</Latitud>
+			<Longitud>-74.055281</Longitud>
+		</Estacion>
+		<Estacion n="13">
+			<nombre>Calle_106</nombre>
+			<Latitud>4.694152</Latitud>
+			<Longitud>-74.055968</Longitud>
+		</Estacion>
+		<Estacion n="14"> 
+			<nombre>Calle_100</nombre>
+			<Latitud>4.685227</Latitud>
+			<Longitud>-74.057456</Longitud>
+		</Estacion>
+		<Estacion n="15"> 
+			<nombre>Virrey</nombre>
+			<Latitud>4.676035</Latitud>
+			<Longitud>-74.058987</Longitud>
+		</Estacion>
+		<Estacion n="16"> 
+			<nombre>Calle_85</nombre>
+			<Latitud>4.671527</Latitud>
+			<Longitud>-74.059664</Longitud>
+		</Estacion>
+		<Estacion n="17"> 
+			<nombre>Heroes</nombre>
+			<Latitud>4.668202</Latitud>
+			<Longitud>-74.060333</Longitud>
+		</Estacion>
+	</B>
+	<A>
+		<Estacion n="18"> 
+			<nombre>Calle_76</nombre>
+			<Latitud>4.662923</Latitud>
+			<Longitud>-74.061296</Longitud>
+		</Estacion>
+		<Estacion n="19"> 
+			<nombre>Calle_72</nombre>
+			<Latitud>4.657956</Latitud>
+			<Longitud>-74.062110</Longitud>
+		</Estacion>
+		<Estacion n="20"> 
+			<nombre>Flores</nombre>
+			<Latitud>4.655037</Latitud>
+			<Longitud> -74.062980</Longitud>
+		</Estacion>	
+		<Estacion n="21"> 
+			<nombre>Calle_63</nombre>
+			<Latitud>4.648981</Latitud>
+			<Longitud> -74.064770</Longitud>
+		</Estacion>
+		<Estacion n="22"> 
+			<nombre>Calle_57</nombre>
+			<Latitud>4.643050</Latitud>
+			<Longitud>-74.065867</Longitud>
+		</Estacion>
+		<Estacion n="23"> 
+			<nombre>Marly</nombre>
+			<Latitud>4.637428</Latitud>
+			<Longitud>-74.066848</Longitud>
+		</Estacion>	
+		<Estacion n="24"> 
+			<nombre>Calle_45</nombre>
+			<Latitud>4.631428</Latitud>
+			<Longitud>-74.067890</Longitud>
+		</Estacion>
+		<Estacion n="25"> 
+			<nombre>Av_39</nombre>
+			<Latitud>4.627323</Latitud>
+			<Longitud>-74.068618</Longitud>
+		</Estacion>
+		<Estacion n="26"> 
+			<nombre>Profamilia</nombre>
+			<Latitud>4.621587</Latitud>
+			<Longitud>-74.069731</Longitud>
+		</Estacion>
+		<Estacion n="27"> 
+			<nombre>Calle_26</nombre>
+			<Latitud>4.616089</Latitud>
+			<Longitud>-74.072450</Longitud>
+		</Estacion>
+		<Estacion n="28"> 
+			<nombre>Calle_22</nombre>
+			<Latitud>4.611707</Latitud>
+			<Longitud>-74.074687</Longitud>
+		</Estacion>
+		<Estacion n="29"> 
+			<nombre>Calle_19</nombre>
+			<Latitud>4.607880</Latitud>
+			<Longitud>-74.076867</Longitud>
+		</Estacion>
+		<Estacion n="30"> 
+			<nombre>Tercer_Milenio</nombre>
+			<Latitud>4.598284</Latitud>
+			<Longitud>-74.083735</Longitud>
+		</Estacion>
+	</A>
+
+</Troncales>
